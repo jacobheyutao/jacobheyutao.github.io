@@ -2,18 +2,18 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is an incoming Ph.D. student in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is a first year Ph.D. student in the Department of Sociology at Hong Kong Baptist University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 25481509@life.hkbu.edu.hk
 
 #### Education
-M.E. in Computer Science and Technology,
-China University of Mining and Technology, 2022–2025
+M.E. in International and Public Affairs,
+The University of Hong Kong (HKU), 2023–2024
 
-B.E. in Data Science and Big Data Technology,
-China University of Mining and Technology, 2018–2022
+B.E. in Philosophy,
+University of California, Los Angeles (UCLA), 2019–2023
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+AI Intimacy; Aging; Social Isolation; Loneliness

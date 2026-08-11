@@ -1,6 +1,6 @@
-title: Sen Li's Homepage
+title: Yutao He's Homepage
 page-top-title: Yutao He
-top-section-bg-text: Data Science
+top-section-bg-text: Sociology
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
@@ -16,7 +16,7 @@ license-link:
 sections:
   - id: home
     nav: HOME
-    title: Sen Li&ensp;|&ensp;李森
+    title: Yutao He&ensp;|&ensp;何宇涛
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
