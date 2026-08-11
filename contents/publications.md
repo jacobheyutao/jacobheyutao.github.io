@@ -1,8 +1,7 @@
 #### Work-In-Progress
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>In Press.</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>Y. He</strong>*, HE, Y. J., Patulny, R. V., & Kim, D. (2026). Elder AI Companionship in China’s Rapidly Aging Society: Preliminary Results from a Scoping Review of AI Usage, Needs, Emotions and Care Implications. Paper presented at 4th International Doctoral Symposium 2026, Hong Kong, China. <strong>In Press.</strong> [[Code]](https://scholars.hkbu.edu.hk/en/publications/elder-ai-companionship-in-chinas-rapidly-aging-society-preliminar-2/)
 
-/
 
 #### Teaching Experiences
 
