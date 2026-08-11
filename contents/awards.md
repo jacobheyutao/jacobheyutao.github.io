@@ -1,13 +1,8 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Three-Minute Presentation Finalist, awarded HKD 1,500, HKBU, 2026.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- MC activities, AESC, HK Green Energy Week Forum, Hong Kong Convention and Exhibition Centre， 2026.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- MC activities, International Doctoral Symposium 2026, Global Perspectives on Social Problems, Policy, and Practice, HKBU, 2026.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
 
