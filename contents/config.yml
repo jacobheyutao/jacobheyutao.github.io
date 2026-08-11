@@ -18,7 +18,7 @@ sections:
     nav: HOME
     title: Yutao He&ensp;|&ensp;何宇涛
     href: '#page-top' # Default to '#<id>' if not specified
-  - id: publications & Teaching Experiences
+  - id: publications 
     nav: PUBLICATIONS
     title: PUBLICATIONS
     icon: bi-file-text-fill
